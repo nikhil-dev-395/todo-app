@@ -26,7 +26,7 @@ const Todo = () => {
     if (result) {
       getTodo();
     }
-    localStorage.setItem("user", JSON.stringify({ result }));
+   
   };
 
   const handler = () => {
