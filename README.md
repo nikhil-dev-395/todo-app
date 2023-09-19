@@ -3,7 +3,7 @@
 <p>this project is developed in mern stack tech </p>
 <p>this project is a very basic todo which will ask you to write to do </p>
 <p>note that : this project also a crud app </p>
-<p style="color:"yellow"">note that : in this project we added tailwind css for styling</p>
+<p>and also we added a tailwind css for styling</p>
 <h2>
  how to run project :
 </h2>
