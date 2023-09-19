@@ -3,9 +3,9 @@
 <p>this project is developed in mern stack tech </p>
 <p>this project is a very basic todo which will ask you to write to do </p>
 <p>note that : this project also a crud app </p>
-
+<p style="color:"yellow"">note that : in this project we added tailwind css for styling</p>
 <h2>
- how to run project
+ how to run project :
 </h2>
 <p>after cloning for client you need to open open integrated terminal in client directory  and `npm run dev` and for open terminal with server type command `npm start` then project</p>
 
